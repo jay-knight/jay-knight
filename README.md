@@ -16,5 +16,3 @@ I'm currently a software engineer in the [Computational Biology Department](http
 ## About Me
 
 Besides all the nerdy things, I have a wife and three wonderful kids. I'm an Orthodox Christian. I play the violin with the [North Mississippi Symphony Orchestra](https://nmsymphony.com/) and the [Germantown Symphony Orchestra](http://www.germantownsymphony.org/) as well as occaisional at churches and weddings around town. I dabble with amateur radio; I hold an Extra Class License and enjoy building electronics kits and attempting to communicate via morse code (I guess that's really more nerdy stuff, sue me).
-
-[LinkedIn](https://www.linkedin.com/in/jay--knight/)
