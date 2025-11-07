@@ -6,9 +6,10 @@ I'm currently a software engineer in the [Computational Biology Department](http
 
 * PHP, especially Laravel
 * Database, particularly PostgreSQL.
+* Terraform
+* Ansible
 * Python
-* Javascript
-* Rust
+* Javascript / Typescript
 * Violin
 * Amateur Radio
 * Astronomy
