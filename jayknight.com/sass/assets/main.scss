@@ -31,8 +31,11 @@ a {
   grid-template-rows: auto 1fr auto;
 }
 
-header {
+header, footer {
   background-color: #252829;
+}
+
+header {
   border-bottom: 1px solid #88898a;
   margin-bottom: 2em;
   h1 {
@@ -40,8 +43,17 @@ header {
   }
 }
 
-header h1, main, footer {
+footer {
+  border-top: 1px solid #88898a;
+  margin-top: 2em;
+  div {
+    line-height: 2em;
+  }
+}
+
+header h1, main, footer div {
   max-width: 600px;
   margin: 0 auto;
   box-sizing: border-box;
+  padding: 0 2rem;
 }
